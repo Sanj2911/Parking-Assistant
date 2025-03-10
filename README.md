@@ -1,16 +1,11 @@
-# park
+#Overview
 
-A new Flutter project.
+Parking Assistant is a smart vehicle parking management system designed to help users find, book, and manage parking spaces efficiently. The system integrates user-friendly features for real-time availability updates, reservations, and navigation assistance.
 
-## Getting Started
+#Features
 
-This project is a starting point for a Flutter application.
+Real-time Parking Availability: View available parking spots in real time.
 
-A few resources to get you started if this is your first Flutter project:
+Reservation System: Book parking slots in advance.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+User Authentication: Sign up, log in, and manage your bookings.
