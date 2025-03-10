@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "380136097192",
+    "firebase_url": "https://park-now-fe8c4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "park-now-fe8c4",
+    "storage_bucket": "park-now-fe8c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380136097192:android:c6c02906fd7161bb62099d",
+        "android_client_info": {
+          "package_name": "com.example.park"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0q5pt_zuzdf6k4EKjD57WERsLhcG5THs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
